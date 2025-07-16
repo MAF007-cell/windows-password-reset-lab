@@ -1,4 +1,19 @@
 # 🔐 Windows Password Reset Lab
+## Screenshots
+
+Step-by-step visual walkthrough of the password reset process:
+
+![Step 1](Screenshot%202025-07-16%20114318.png)
+![Step 2](Screenshot%202025-07-16%20114928.png)
+![Step 3](Screenshot%202025-07-16%20120342.png)
+![Step 4](Screenshot%202025-07-16%20152745.png)
+![Step 5](Screenshot%202025-07-16%20152950.png)
+![Step 6](Screenshot%202025-07-16%20153322.png)
+![Step 7](Screenshot%202025-07-16%20153622.png)
+![Step 8](Screenshot%202025-07-16%20154408.png)
+![Step 9](Screenshot%202025-07-16%20154812.png)
+![Step 10](Screenshot%202025-07-16%20154924.png)
+![Step 11](Screenshot%202025-07-16%20154936.png)
 
 A hands-on local Windows 10 password reset using a CMD hijack from recovery mode.
 
